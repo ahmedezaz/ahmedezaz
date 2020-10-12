@@ -1,16 +1,26 @@
-### Hi there 👋
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
-<!--
-**ahmedezaz/ahmedezaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## I'm Ezaz Ahmed
+## Software Engineer at <a href="https://www.ordere.co.uk/" > OrderE </a> 👨‍💻
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+###  A little more about me...  
+
+```javascript
+const ezaz = {
+    askMeAbout: ["web dev", "tech", "tv series"],
+    technologies:{
+        backEnd: ["php", "laravel", "codeigniter"],
+        fronEnd: ["html", "css", "javascript", "react.js", "bootstrap", "ajax", "materialize", "flux"],
+        database: ["mySql"],
+        misc: ["Firebase"],
+        devops: ["share hosting", "godaddy", "siteground"],
+        tools: ["git", "github", "sublime", "visual studio", "jupyter notebook"],
+    },
+    architecture: ["Serverless Architecture", "microservices", "event-driven", "Single page applications"],
+}
+```
+
+---
+⭐️ From [@ahmedezaz](https://github.com/AhmedEzaz)
