@@ -12,7 +12,7 @@ const ezaz = {
     askMeAbout: ["web dev", "tech", "tv series"],
     technologies:{
         backEnd: ["php", "laravel", "codeigniter"],
-        fronEnd: ["html", "css", "javascript", "react.js", "bootstrap", "ajax", "materialize", "flux"],
+        fronEnd: ["html", "css", "SASS" "javascript", "react.js", "bootstrap", "ajax", "materialize", "flux"],
         database: ["mySql"],
         misc: ["Firebase"],
         devops: ["share hosting", "godaddy", "siteground"],
