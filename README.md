@@ -1,4 +1,4 @@
-<img align='right' src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fblog.dinicleyalves.com.br%2Fnews%2Fhello-world%2F&psig=AOvVaw0yDdvch-fRJL2uxZfL6HO2&ust=1628701886310000&source=images&cd=vfe&ved=0CAoQjRxqFwoTCLD9j8z5pvICFQAAAAAdAAAAABAJ" width="230">
+<img align='right' src="https://github.blog/wp-content/uploads/2020/12/102393310-07478b80-3f8d-11eb-84eb-392d555ebd29.png?fit=1200%2C630" width="230">
 
 ## I'm Ezaz Ahmed
 ## Software Engineer at <a href="https://www.ordervox.co.uk/" target="_blank"> OrderVox </a> 👨‍💻
