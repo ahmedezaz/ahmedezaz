@@ -1,11 +1,11 @@
 <img align='right' src="https://github.githubassets.com/images/modules/logos_page/Octocat.png" width="230">
 
-## I'm Ezaz Ahmed
-## Software Engineer at <a href="https://www.ordervox.co.uk/" target="_blank"> OrderVox </a> 👨‍💻
+## Hi 👋, I'm Ezaz Ahmed
+## Software Engineer at <a href="https://www.ordervox.co.uk/" target="_blank"> OrderVox </a> 👨‍💻 
 
 
 
-###  A little more about me...  
+### 📝 A little more about me...  
 
 ```javascript
 const ezaz = {
