@@ -1,4 +1,4 @@
-<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
+<img align='right' src="https://media0.giphy.com/media/3o7WIx7urV838kHFzW/giphy.gif?cid=ecf05e47116daetnfti0cyu0z7iabmx0t1i1vb0a8wdtfqui&rid=giphy.gif&ct=s" width="230">
 
 ## I'm Ezaz Ahmed
 ## Software Engineer at <a href="https://www.ordervox.co.uk/" target="_blank"> OrderVox </a> 👨‍💻
