@@ -1,4 +1,4 @@
-<img align='right' src="https://github.blog/wp-content/uploads/2020/12/102393310-07478b80-3f8d-11eb-84eb-392d555ebd29.png?fit=1200%2C630" width="230">
+<img align='right' src="https://github.githubassets.com/images/modules/logos_page/Octocat.png" width="230">
 
 ## I'm Ezaz Ahmed
 ## Software Engineer at <a href="https://www.ordervox.co.uk/" target="_blank"> OrderVox </a> 👨‍💻
