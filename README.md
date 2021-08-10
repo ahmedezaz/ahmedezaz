@@ -1,7 +1,7 @@
 <img align='right' src="https://github.githubassets.com/images/modules/logos_page/Octocat.png" width="230">
 
 ## Hi 👋, I'm Ezaz Ahmed
-## Software Engineer at <a href="https://www.ordervox.co.uk/" target="_blank"> OrderVox </a> 👨‍💻 
+## **Software Engineer** at OrderVox  👨‍💻 
 
 
 
