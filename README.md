@@ -7,7 +7,7 @@
 
 ### 📝 A little more about me...  
 
-javascript
+```javascript
 const ezaz = {
     askMeAbout: ["web dev", "tech", "tv series"],
     technologies:{
@@ -20,7 +20,7 @@ const ezaz = {
     },
     architecture: ["Serverless Architecture", "microservices", "event-driven", "Single page applications"],
 }
-
+```
 
 ---
 ⭐️ From [@ahmedezaz](https://github.com/AhmedEzaz)
