@@ -1,6 +1,6 @@
 <!-- <img align='right' src="https://www.happygabby.com/wp-content/uploads/2014/04/scooby-doo-wall-sticker-610x1024.jpg" width="230">
  -->
-## Hi 👋, I'm Ezaz Ahmed | Passionate about Continuous Learning and Skill Enhancement
+## Hi 👋, I'm Ezaz Ahmed 
 ## 👨‍💻 Software Engineering Master's Graduate 
 
 
